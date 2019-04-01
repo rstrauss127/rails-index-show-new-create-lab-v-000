@@ -10,4 +10,7 @@ class CouponsController < ApplicationController
 
   def show
   end
+
+  def index
+  end
 end
